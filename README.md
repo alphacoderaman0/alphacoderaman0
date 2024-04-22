@@ -39,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphacoderaman0&show_icons=true&locale=en" alt="alphacoderaman0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphacoderaman0&" alt="alphacoderaman0" /></p>
-<img src="https://raw.githubusercontent.com/alphacoderaman0/alphacoderaman0/output/snake.svg" alt="Snake animation" />
