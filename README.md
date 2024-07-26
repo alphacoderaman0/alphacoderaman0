@@ -27,8 +27,8 @@ currently I am persuing my Diploma from Government Leather Institute , Agra<br><
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alphacoderaman0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+### Watch 🐍 Snake is Eating My Contributions
+![snake gif](https://github.com/alphacoderaman0/alphacoderaman0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
