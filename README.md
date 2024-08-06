@@ -27,11 +27,4 @@ currently I am persuing my Diploma from Government Leather Institute , Agra<br><
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alphacoderaman0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Watch 🐍 Snake is Eating My Contributions
-![snake gif](https://github.com/alphacoderaman0/alphacoderaman0/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
